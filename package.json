@@ -13,6 +13,7 @@
     "gatsby-plugin-mdx": "^1.2.29",
     "gatsby-theme-blog": "^2.0.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "theme-ui-sketchy-preset": "^0.1.3"
   }
 }
